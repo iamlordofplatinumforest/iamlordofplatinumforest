@@ -13,4 +13,4 @@
 ## 📲️ Socials
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/lordofplatinumforest)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yefrosinya-sologub-915b1b38a/)
