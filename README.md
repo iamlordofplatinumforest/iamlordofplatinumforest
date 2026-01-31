@@ -1,14 +1,26 @@
 # 👩‍💻 Student of BSUIR (Faculty of Computer Systems and Networks)
-- I'm Backend developer
+- Backend developer specializing in Python
 
 <br/>
 
 ## 🛠️ Languages and Tools
 
+### 🐍 Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/flask-090909?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=05998b)
+![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-090909?style=for-the-badge&logo=django&logoColor=A30000)
+![Pytest](https://img.shields.io/badge/pytest-090909?style=for-the-badge&logo=pytest&logoColor=white)
+
+### ⚙️ Infrastructure & Databases
+
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=sky)
+![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-090909?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 📲️ Socials
 
